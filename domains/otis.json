@@ -6,8 +6,7 @@
     "email": "kartikmhatre1812@gmail.com"
   },
   "records": {
-    "A": ["76.76.21.21"],
-    "AAAA": ["2606:4700:3108::ac42:2b15", "2606:4700:3108::ac42:2a15"]
-  },
-  "proxied": false
+    "A": ["216.198.79.1"],
+    "TXT": ["vc-domain-verify=otis.is-a.dev,f8c80dbb29b6e31b280e"]
+  }
 }
